@@ -1,0 +1,23 @@
+# Executáveis e Objetos
+*.exe
+*.o
+*.obj
+*.out
+*.ilk
+*.pdb
+*.tlog
+*.recipe
+
+# Arquivos temporários do Visual Studio
+.vs/
+*.vcxproj.user
+*.ipch
+*.suo
+*.db
+*.opendb
+
+# Pastas de saída
+Debug/
+Release/
+bin/
+build/
